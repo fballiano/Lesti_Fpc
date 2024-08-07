@@ -13,9 +13,6 @@
             "role": "developer"
         }
     ],
-    "require": {
-        "magento-hackathon/magento-composer-installer": "^3.1 || ^2.1 || ^4.0"
-    },
     "require-dev": {
         "ecomdev/ecomdev_phpunit": "^0.3.7",
         "phpunit/phpunit": "4.*",
